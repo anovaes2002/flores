@@ -10,4 +10,7 @@ O resultado deve gerar um gráfico parecido com o da figura abaixo. C:\Users\ale
 
 Entregáveis:
 
-Descrição do que foi feito em formato de artigo científico. Link para o código (bem documentado) no github.
+Descrição do que foi feito em formato de artigo científico. 
+
+Link para o código (bem documentado) no github:
+https://github.com/anovaes2002/flores/blob/main/AlexNovaes.ipynb
